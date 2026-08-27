@@ -30,5 +30,5 @@ Disclaimer: Community supported networks are not maintained by TradeTrust and up
 
 | Chain | Chain Id | Network Name   | Network          | Blockchain                           | Type       | Status |
 | ----- | -------- | -------------- | ---------------- | ------------------------------------ | ---------- | ------ |
-| XRPL  | 1440000  | xrplEVM        | XRPL EVM Mainnet | [XRPL EVM](https://www.xrplevm.org/) | L1 Mainnet | Active |
-| XRPL  | 1449000  | xrplEVMTestnet | XRPL EVM Testnet | XRPL EVM                             | L1 Testnet | Active |
+| XRPL  | 1440000  | xrplevm        | XRPL EVM Mainnet | [XRPL EVM](https://www.xrplevm.org/) | L1 Mainnet | Active |
+| XRPL  | 1449000  | xrplevmtestnet | XRPL EVM Testnet | XRPL EVM                             | L1 Testnet | Active |
